@@ -1,0 +1,5 @@
+artigo sobre trabalhar com mutiplos arquivos em C:
+	http://migre.me/u0pXT
+
+
+	
