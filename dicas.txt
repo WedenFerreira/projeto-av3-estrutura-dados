@@ -1,5 +1,6 @@
 artigo sobre trabalhar com mutiplos arquivos em C:
 	http://migre.me/u0pXT
 
-
+guia Github
+	http://migre.me/u0qsS
 	
